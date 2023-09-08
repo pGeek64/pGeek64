@@ -38,6 +38,6 @@ src="https://img.shields.io/github/followers/pGeek64?logo=github&style=for-the-b
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/pGeek64"><img src="https://github-readme-stats.vercel.app/api?username=pGeek64&show_icons=true&hide=prs,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="pGeek64's GitHub stats" /></a>
